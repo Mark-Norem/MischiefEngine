@@ -1,2 +1,2 @@
 # MischiefEngine
-Mischief Graphics Engine built using Open GL
+A game engine built using Open GL and C++
